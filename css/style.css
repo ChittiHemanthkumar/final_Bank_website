@@ -4,6 +4,8 @@
 }
 .Bimage{
     height: 240px;
+    width:1345px;
+    margin: right 2rem;
   
     
     background: url("../images/Bimage.jpg"); 
